@@ -2,7 +2,7 @@
 
 Simple example of usage of streamlit and FastAPI for ML model serving
 
-To run the example without using docker,we will use virtual env for proper
+To run the example ,we will use virtual env for proper
 package management
 
 ## virtual environment
