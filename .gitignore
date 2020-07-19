@@ -1,0 +1,4 @@
+.vscode/
+.devcontainer/
+*.pyc
+vir_env
